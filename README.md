@@ -2,6 +2,8 @@
 
 ![Project Preview](screenshots/project_preview.png)
 
+https://github.com/zahid-gis/school-accessibility-analysis-khulna/blob/main/output/school_accessibility_in_khulna.png
+
 ## 📌 Project Overview
 
 This project presents a GIS-based School Accessibility Analysis for Khulna District, Bangladesh, using QGIS and OpenStreetMap (OSM) data. The analysis evaluates spatial accessibility to schools by creating a 500-meter buffer around educational facilities and assessing road network coverage within accessible areas.
