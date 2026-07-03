@@ -1,0 +1,45 @@
+# Metadata
+
+## Project Name
+
+School Accessibility Analysis in Khulna District, Bangladesh
+
+## Author
+
+Zahid Hasan
+
+## Software
+
+QGIS 3.x
+
+## Coordinate Reference System
+
+WGS 84 / UTM Zone 46N
+
+EPSG:32646
+
+## Data Sources
+
+OpenStreetMap (OSM)
+
+Geofabrik Bangladesh Extract
+
+## Study Area
+
+Khulna District, Bangladesh
+
+## Buffer Distance
+
+500 meters
+
+## Analysis Type
+
+Euclidean Buffer Analysis
+
+## Output Format
+
+GeoPackage
+
+PDF Map
+
+PNG Map

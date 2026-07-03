@@ -1,0 +1,45 @@
+# Processing Steps
+
+## Step 1
+
+Download Bangladesh OSM Data from Geofabrik.
+
+## Step 2
+
+Load Admin Areas, Roads and POIs into QGIS.
+
+## Step 3
+
+Extract Khulna District Boundary.
+
+## Step 4
+
+Extract School Locations from POIs.
+
+## Step 5
+
+Clip Schools to Khulna District.
+
+## Step 6
+
+Create a 500-meter Buffer around schools.
+
+## Step 7
+
+Dissolve Buffer.
+
+## Step 8
+
+Clip Roads using Buffer.
+
+## Step 9
+
+Calculate Road Length.
+
+## Step 10
+
+Calculate Buffer Area.
+
+## Step 11
+
+Prepare Final Map Layout.

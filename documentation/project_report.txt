@@ -1,0 +1,62 @@
+# School Accessibility Analysis in Khulna District
+
+## Introduction
+
+Access to educational facilities plays an important role in improving educational opportunities. GIS-based accessibility analysis helps identify well-served and underserved areas.
+
+---
+
+## Study Area
+
+Khulna District, Bangladesh.
+
+---
+
+## Objectives
+
+- Analyze school accessibility.
+- Measure accessibility coverage.
+- Calculate accessible road network.
+- Identify underserved areas.
+
+---
+
+## Data
+
+OpenStreetMap
+
+Geofabrik Bangladesh Extract
+
+---
+
+## Methodology
+
+1. Data Collection
+2. Boundary Extraction
+3. School Extraction
+4. Buffer Analysis
+5. Dissolve
+6. Road Clipping
+7. Area Calculation
+8. Statistics
+9. Map Design
+
+---
+
+## Results
+
+Total Schools: 960
+
+District Area: 4648.74 km²
+
+School Buffer Area: 529.90 km²
+
+Accessibility Coverage: 11.40%
+
+Accessible Road Length: 2030.16 km
+
+---
+
+## Conclusion
+
+The analysis shows that approximately 11.4% of the district lies within 500 meters of a mapped school. Areas outside this buffer may benefit from improved access to educational facilities. This project demonstrates the use of GIS techniques for spatial accessibility analysis and educational planning.

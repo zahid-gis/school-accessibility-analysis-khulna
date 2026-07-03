@@ -1,0 +1,17 @@
+# References
+
+OpenStreetMap Contributors.
+
+https://www.openstreetmap.org
+
+Geofabrik.
+
+https://download.geofabrik.de/
+
+QGIS Documentation.
+
+https://docs.qgis.org/
+
+OpenStreetMap Wiki.
+
+https://wiki.openstreetmap.org
