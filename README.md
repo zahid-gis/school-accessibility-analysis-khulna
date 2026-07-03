@@ -131,7 +131,7 @@ The final map includes:
 
 ---
 
-## 📷 Project Screenshots
+## 📷 Final Project
 
 ### Final Accessibility Map
 
