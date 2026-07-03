@@ -135,7 +135,7 @@ The final map includes:
 
 ### Final Accessibility Map
 
-![Final Map]([maps/School_Accessibility_Map.png](https://github.com/zahid-gis/school-accessibility-analysis-khulna/blob/main/output/school_accessibility_in_khulna.png))
+![Final Map](https://github.com/zahid-gis/school-accessibility-analysis-khulna/blob/main/output/school_accessibility_in_khulna.png))
 
 ---
 
